@@ -3,6 +3,9 @@
 Webapp statica mobile-first per configurare e collaudare periferiche ccTalk
 tramite la scheda Microhard **MH499** con interfaccia USB Silicon Labs CP210x.
 
+L'interfaccia usa un tema chiaro ad alto contrasto, ottimizzato per l'impiego
+all'aperto da smartphone.
+
 ## Funzioni
 
 - collegamento alla MH499 tramite Web Serial o WebUSB;
